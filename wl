@@ -1,4 +1,3 @@
-return{
+local whitelist = {
 "5C2979BC-CC24-4CF6-9166-6608AEB56ECB",
-"porno"
 }
