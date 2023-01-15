@@ -1,3 +1,1 @@
-local status = {
-"true",
-}
+_G.status = true
